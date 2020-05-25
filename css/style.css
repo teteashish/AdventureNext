@@ -448,7 +448,7 @@ h1, h2, h3, h4, h5,
     .site-navbar {
       padding-top: 1rem;
       padding-bottom: 1rem;
-      position:fixed;
+      position:sticky;
     } }
   .site-navbar .toggle-button {
     position: absolute;
